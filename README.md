@@ -1,38 +1,38 @@
 # GenLayer SocialFi Ecosystem v2.0
 
-**Fully Connected Intelligent SocialFi Platform on GenLayer**
+**Fully Connected SocialFi Platform on GenLayer**
 
-## Overview
-A complete SocialFi ecosystem where users earn **Reputation** and **Dynamic Tokens** through interactions, tasks, and community activities.
+A modular ecosystem where users earn Reputation and Dynamic Tokens through interactions, tasks, and community participation using Intelligent Contracts.
 
-## Deployed Contracts (v2.0)
+## Deployed Contracts
 
-| Contract                  | Address                                      |
-|--------------------------|----------------------------------------------|
-| Dynamic Token            | `0x698c060E742D37E4742aEf4d790ba1543325C15b` |
-| Reputation Scoring       | `0x77f86b0D8A0230BD612F41F9c638d682f6aBc476` |
-| Interaction Hub          | `0x587E1c83193E20E9ce8fB1b30d6d6C2024711992` |
-| Task Marketplace         | `0xBb6cac0BE2C46Eeb3f08191c754DdCBcfcBB096e` |
-| Dispute Resolution       | `0x119B813e24a42c085440269c174d504Ec339fa06` |
+| Contract                  | Address                                            | Status     |
+|---------------------------|----------------------------------------------------|------------|
+| Dynamic Token             | `0x698c060E742D37E4742aEf4d790ba1543325C15b`     | Active     |
+| Reputation Scoring        | `0xFA6A9DdfD6006De9ea722CDB3c23ce34788c330B`     | Active     |
+| Interaction Hub           | `0x88886715F461A38dd59400B9c256eDE3b4C6fD85`     | Active     |
+| Task Marketplace          | `0xC5e8C94e80b7D50c4CEA41B0B428dDc28f4C4799`     | Active     |
+| Dispute Resolution        | `0x259d993CFFdfb22570731f677a040Cc07FB05b85`     | Active     |
 
 ## Built By
-[@cryptofunny724](https://x.com/cryptofunny724)
+**[@cryptofunny724](https://x.com/cryptofunny724)**
 
-## Key Features (v2.0)
-- Fully interconnected contracts
-- Automatic Reputation & Token rewards on interactions
-- Task creation and completion with rewards
-- Dispute system with reputation impact
-- Modular and expandable architecture
+## Core Features
+- Automatic Reputation and Token rewards on user interactions
+- Task creation and completion system with rewards
+- Dispute resolution mechanism
+- Modular Intelligent Contract architecture
+- Fully functional on GenLayer Bradbury Testnet
 
 ## How It Works
-1. Use **Interaction Hub** → Get automatic rewards
-2. Complete tasks in **Task Marketplace**
-3. Resolve issues in **Dispute Resolution**
+1. Call `record_interaction()` in Interaction Hub → Earn Reputation + Tokens
+2. Create and complete tasks in Task Marketplace
+3. Submit disputes when needed
 
-## Version History
-- v1.0 → Initial separate contracts
-- v2.0 → Fully connected ecosystem (Current)
+## Repository Structure
+- Separate repositories for each contract (modular design)
+- Clean, stable, and tested contracts
+- Comprehensive documentation
 
 ---
-**Built for GenLayer Builders Program & Testnet (Bradbury)**
+**GenLayer Builders Contribution**
