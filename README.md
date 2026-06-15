@@ -3,37 +3,36 @@
 **Fully Connected Intelligent SocialFi Platform on GenLayer**
 
 ## Overview
-A complete SocialFi ecosystem built with GenLayer Intelligent Contracts. Users earn Reputation and Dynamic Tokens through interactions, tasks, and community participation.
+A complete SocialFi ecosystem where users earn **Reputation** and **Dynamic Tokens** through interactions, tasks, and community activities.
 
-## Features (v2.0)
-- Fully interconnected contracts (Automatic rewards)
-- Interaction Hub → Reputation + Token rewards
-- Task Marketplace with automatic rewards
-- Dispute Resolution with reputation impact
-- Clean modular architecture
+## Deployed Contracts (v2.0)
 
-## Contract Addresses (v2)
-(Will be updated after deployment)
+| Contract                  | Address                                      |
+|--------------------------|----------------------------------------------|
+| Dynamic Token            | `0x698c060E742D37E4742aEf4d790ba1543325C15b` |
+| Reputation Scoring       | `0x77f86b0D8A0230BD612F41F9c638d682f6aBc476` |
+| Interaction Hub          | `0xbcC9Dbc141b1f3562237380c2f18700e36abAca6` |
+| Task Marketplace         | `0xBb6cac0BE2C46Eeb3f08191c754DdCBcfcBB096e` |
+| Dispute Resolution       | `0x119B813e24a42c085440269c174d504Ec339fa06` |
+
+## Built By
+[@cryptofunny724](https://x.com/cryptofunny724)
+
+## Key Features (v2.0)
+- Fully interconnected contracts
+- Automatic Reputation & Token rewards on interactions
+- Task creation and completion with rewards
+- Dispute system with reputation impact
+- Modular and expandable architecture
 
 ## How It Works
-1. Users interact via **Interaction Hub**
-2. Reputation and Tokens are automatically distributed
-3. Complete tasks to earn more
-4. Resolve disputes fairly
-
-## Repository Structure
-- `/contracts/` - All smart contracts
-- `/scripts/` - Interaction scripts
-- `/frontend/` - (Future Studio integration)
-
-## Tech Stack
-- GenLayer Intelligent Contracts (Python)
-- Optimistic Democracy
-- GenVM
+1. Use **Interaction Hub** → Get automatic rewards
+2. Complete tasks in **Task Marketplace**
+3. Resolve issues in **Dispute Resolution**
 
 ## Version History
 - v1.0 → Initial separate contracts
 - v2.0 → Fully connected ecosystem (Current)
 
 ---
-**Built for GenLayer Builders Program**
+**Built for GenLayer Builders Program & Testnet (Bradbury)**
