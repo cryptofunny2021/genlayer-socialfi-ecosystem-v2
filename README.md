@@ -11,7 +11,7 @@ A complete SocialFi ecosystem where users earn **Reputation** and **Dynamic Toke
 |--------------------------|----------------------------------------------|
 | Dynamic Token            | `0x698c060E742D37E4742aEf4d790ba1543325C15b` |
 | Reputation Scoring       | `0x77f86b0D8A0230BD612F41F9c638d682f6aBc476` |
-| Interaction Hub          | `0xbcC9Dbc141b1f3562237380c2f18700e36abAca6` |
+| Interaction Hub          | `0x587E1c83193E20E9ce8fB1b30d6d6C2024711992` |
 | Task Marketplace         | `0xBb6cac0BE2C46Eeb3f08191c754DdCBcfcBB096e` |
 | Dispute Resolution       | `0x119B813e24a42c085440269c174d504Ec339fa06` |
 
