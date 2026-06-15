@@ -1,10 +1,10 @@
 # GenLayer SocialFi Ecosystem v2.0
 
-**Fully Connected SocialFi Platform on GenLayer**
+**Fully Functional SocialFi Platform on GenLayer**
 
-A modular ecosystem where users earn Reputation and Dynamic Tokens through interactions, tasks, and community participation using Intelligent Contracts.
+A modular ecosystem where users earn Reputation and Dynamic Tokens through interactions, tasks, and community activities using Intelligent Contracts.
 
-## Deployed Contracts
+## Deployed Contracts (Bradbury Testnet)
 
 | Contract                  | Address                                            | Status     |
 |---------------------------|----------------------------------------------------|------------|
@@ -17,22 +17,21 @@ A modular ecosystem where users earn Reputation and Dynamic Tokens through inter
 ## Built By
 **[@cryptofunny724](https://x.com/cryptofunny724)**
 
-## Core Features
-- Automatic Reputation and Token rewards on user interactions
-- Task creation and completion system with rewards
+## Key Features
+- Automatic Reputation (+10) and Token (+5) rewards on interactions
+- Task creation and completion system with reputation rewards
 - Dispute resolution mechanism
 - Modular Intelligent Contract architecture
-- Fully functional on GenLayer Bradbury Testnet
+- Fully tested and functional on GenLayer Bradbury Testnet
 
 ## How It Works
-1. Call `record_interaction()` in Interaction Hub → Earn Reputation + Tokens
+1. Call `record_interaction()` in Interaction Hub → Earn Reputation + Tokens automatically
 2. Create and complete tasks in Task Marketplace
-3. Submit disputes when needed
+3. Submit disputes when necessary
 
 ## Repository Structure
-- Separate repositories for each contract (modular design)
-- Clean, stable, and tested contracts
-- Comprehensive documentation
+- Separate repositories for each contract (high modularity)
+- Clean, stable, and well-documented code
 
 ---
-**GenLayer Builders Contribution**
+**GenLayer Builders Program Contribution**
